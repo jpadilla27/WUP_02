@@ -52,7 +52,8 @@ In the box plot you can see the response of Vitc 39 and 52. In this experiment y
 favstats(VitC~Cult,data=veggy)
 ```
 
-The c39 cultivation content showed to have a minimum of 41 Vit C content as opposed to c52 having a 47 VitC content.
+The c39 cultivation content showed to have a minimum of 41 Vit C content as opposed to c52 having a 47 VitC content. The max of c39 had a 68 while c52 had a max of 84. C39 had a median of 51.0 while c52 had a median of 64.5. The mean for c39 is 51.5 while c52 had a mean of 64.5 The c52 showed higher results in its cultivation methods.
+
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 ## Inferential Results
