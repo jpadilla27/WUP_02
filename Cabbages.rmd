@@ -27,7 +27,9 @@ $H_A$: There is a difference between VitC content based on the cultivation metho
 
 # Methods
 
+
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
+We are explaining the content of the VitC variable (numerical) by observing the cultivation variable (categorical). We will be utilizing the T test in order to compare the mean averages of c39 and c52 vitamin c groups.
 
 # Results
 
@@ -36,6 +38,10 @@ $H_A$: There is a difference between VitC content based on the cultivation metho
 ## Descriptive Results
 
 ### Graphical Descriptive Results
+
+```{r}
+plot(VitC~Cult,data=veggy)
+```
 
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
